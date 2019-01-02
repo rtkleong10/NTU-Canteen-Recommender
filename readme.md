@@ -6,6 +6,5 @@ This is a Python GUI app to help users to find a canteen to eat at. This is a sc
 
 ## How to Run the NTU Recommender
 - Unzip FS2_LEONG_LIU_LUAH.zip
-- cd to 
-- Open guiversion.py in the Python IDLE
+- Open main.py in the Python IDLE
 - Run the module
